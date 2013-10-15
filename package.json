@@ -1,0 +1,13 @@
+{
+  "name": "convead-pinger",
+  "version": "0.0.1",
+  "main": "server.js",
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "sidekiq": "*",
+    "redis": "*",
+    "hiredis": "*"
+  }
+}
